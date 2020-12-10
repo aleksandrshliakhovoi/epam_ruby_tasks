@@ -4,10 +4,8 @@
   символ 'e', символ 'o'.
 =end
 
-
 text1 = 'Hello'
 text2 = 'World'
-
 
 def word_from_chars(*arg)
   if(arg[0] != nil)
@@ -20,6 +18,3 @@ def word_from_chars(*arg)
 end
 
 var = word_from_chars(text1, text2)
-
-
-

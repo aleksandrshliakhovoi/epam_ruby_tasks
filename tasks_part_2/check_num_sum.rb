@@ -21,11 +21,6 @@ def check_sum(num)
   else
     puts 'ні'
   end
-
-
-
-
-
 end
 
 
